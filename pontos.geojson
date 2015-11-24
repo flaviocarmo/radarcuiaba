@@ -3,9 +3,6 @@
 	"features": [{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "",
 			"velocidade": 50
@@ -19,9 +16,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -35,9 +29,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -51,9 +42,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -67,9 +55,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -83,9 +68,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -99,9 +81,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -115,9 +94,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -131,9 +107,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 50
@@ -147,9 +120,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 60
@@ -163,9 +133,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "AVANÇO SEMAFÓRICO",
 			"data-inicio": "01/12/2015",
 			"velocidade": 60
@@ -226,9 +193,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "LOMBADA ELETRÔNICA",
 			"velocidade": 40,
 			"data-inicio": "01/12/2015"
@@ -242,9 +206,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "LOMBADA ELETRÔNICA",
 			"velocidade": 40,
 			"data-inicio": "01/12/2015"
@@ -258,9 +219,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "LOMBADA ELETRÔNICA",
 			"velocidade": 40,
 			"data-inicio": "01/12/2015"
@@ -274,9 +232,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "RADAR FIXO",
 			"velocidade": 60,
 			"data-inicio": "01/12/2015"
@@ -290,9 +245,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "RADAR FIXO",
 			"velocidade": 60,
 			"data-inicio": "01/12/2015"
@@ -306,9 +258,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "RADAR FIXO",
 			"velocidade": 60,
 			"data-inicio": "01/12/2015"
@@ -322,9 +271,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "RADAR FIXO",
 			"velocidade": 60,
 			"data-inicio": "01/12/2015"
@@ -338,9 +284,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "RADAR FIXO",
 			"velocidade": 60,
 			"data-inicio": "01/12/2015"
@@ -354,9 +297,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "RADAR FIXO",
 			"velocidade": 60,
 			"data-inicio": "01/12/2015"
@@ -370,9 +310,6 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"marker-color": "#7e7e7e",
-			"marker-size": "medium",
-			"marker-symbol": "",
 			"tipo": "RADAR FIXO",
 			"velocidade": 60,
 			"data-inicio": "01/12/2015"
