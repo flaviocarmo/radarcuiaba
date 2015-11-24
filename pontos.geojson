@@ -4,7 +4,435 @@
 		"type": "Feature",
 		"properties": {
 			"tipo": "AVANÇO SEMAFÓRICO",
-			"data-inicio": "",
+			"data-inicio": "01/09/2014",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.10044538974762,
+			-15.594207262504668]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09535455703735,
+			-15.599405150869405]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09539210796356,
+			-15.599632490894587]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.099045276641846,
+			-15.606473241100428]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09912037849426,
+			-15.606535240814525]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.099404692649834,
+			-15.606643740269094]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09275013208389,
+			-15.595514497315518]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.0926079750061,
+			-15.595560999586288]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09256237745285,
+			-15.595447327350254]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 60
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.08850419521332,
+			-15.590445686653004]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 60
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.088506877422326,
+			-15.590647201392047]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"marker-size": "",
+			"marker-color": "#000000",
+			"marker-symbol": "",
+			"data-inicio": "01/12/2015",
+			"velocidade": 60
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.07938468456268,
+			-15.584193464461235]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"marker-symbol": "",
+			"data-inicio": "01/12/2015",
+			"velocidade": 60
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.079556345939636,
+			-15.584087536743297]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"marker-symbol": "",
+			"data-inicio": "01/12/2015",
+			"velocidade": 50,
+			"marker-size": ""
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.079623401165,
+			-15.584110789173861]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.06895089149475,
+			-15.617945452360011]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.06907159090042,
+			-15.618051362601005]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.054732501506805,
+			-15.571122605179795]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.078445911407464,
+			-15.596116442561609]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.078370809555054,
+			-15.596090608037942]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.040149331092834,
+			-15.621486957807218]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.04003131389618,
+			-15.621414630080606]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.040873527526855,
+			-15.607640899235466]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.04100227355957,
+			-15.607857896917483]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/12/2015"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.02108955383301,
+			-15.616155302690025]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "RADAR FIXO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 60
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.0212504863739,
+			-15.61637229136148]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "RADAR FIXO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 60
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.08051389455795,
+			-15.610839008496031]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"data-inicio": "01/12/2015",
+			"velocidade": 60,
+			"tipo": "RADAR FIXO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.07908964157104,
+			-15.609513788335086]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"data-inicio": "01/12/2015",
+			"velocidade": 60,
+			"tipo": "RADAR FIXO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.084352135658264,
+			-15.604755324902484]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "RADAR FIXO",
+			"data-inicio": "01/12/2015",
+			"velocidade": 60
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.035911440849304,
+			-15.640373952845525]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"data-inicio": "01/12/2015",
+			"velocidade": 60,
+			"tipo": "RADAR FIXO"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.035895347595215,
+			-15.640275802834456]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/12/2015",
 			"velocidade": 50
 		},
 		"geometry": {
@@ -396,6 +824,310 @@
 			"type": "Point",
 			"coordinates": [-56.035895347595215,
 			-15.640275802834456]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09769344329833,
+			-15.619658091738842]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09762102365494,
+			-15.61955734864215]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.096314787864685,
+			-15.589639625719231]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09643280506134,
+			-15.58970679758456]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "LOMBADA ELETRÔNICA",
+			"velocidade": 40,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.093401908874505,
+			-15.604959408933164]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.0937774181366,
+			-15.578946101362703]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09336167573928,
+			-15.579204468019633]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.10373377799988,
+			-15.574835444158095]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.12750083208084,
+			-15.602009212441017]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.127530336380005,
+			-15.60180512547564]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.07715040445328,
+			-15.603982903758103]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.076595187187195,
+			-15.603499816146122]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.06452256441116,
+			-15.627701880671381]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.06477200984955,
+			-15.627722545104563]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.086216270923615,
+			-15.572003667678825]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "RADAR FIXO",
+			"velocidade": 60,
+			"data-inicio": "01/09/2014"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.086286008358,
+			-15.571729789417835]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/09/2014",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.098803877830505,
+			-15.598534539580454]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/09/2014",
+			"velocidade": 50
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.09956294298172,
+			-15.597604505636951]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"marker-color": "#7e7e7e",
+			"marker-size": "medium",
+			"marker-symbol": "",
+			"tipo": "AVANÇO SEMAFÓRICO",
+			"data-inicio": "01/09/2014",
+			"velocidade": 40
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-56.07654690742493,
+			-15.625227299726582]
 		}
 	}]
 }
